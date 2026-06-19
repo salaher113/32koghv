@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=NETMAX
+Comment=Stream movies, TV shows, music and more
+Exec=NETMAX
+Icon=NETMAX
+Categories=AudioVideo;Video;Player;
+StartupWMClass=NETMAX
+Terminal=false
